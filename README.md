@@ -22,7 +22,7 @@ I'm [Chase Brown], a full stack software engineer based out of Arizona. I gradua
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASolidity_logo.svg&psig=AOvVaw2y7vdme6O1ixkKJaM8vGNX&ust=1684014789073000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjq8Ivi8P4CFQAAAAAdAAAAABAE"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
