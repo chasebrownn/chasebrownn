@@ -34,6 +34,6 @@ I'm Chase Brown, a full stack software engineer based out of Arizona. I graduate
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasebrownn&show_icons=true&theme=react)
+![Chase's GitHub stats](https://github-readme-stats-orpin-nu.vercel.app/api?username=chasebrownn&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasebrownn&layout=compact&theme=react&show_icons=true)](https://github.com/chasebrownn/github-readme-stats)
+[![Top Langs](https://github-readme-stats-orpin-nu.vercel.app/api/top-langs/?username=chasebrownn&layout=compact&theme=react&show_icons=true)](https://github.com/chasebrownn/github-readme-stats)
