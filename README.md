@@ -14,7 +14,7 @@
 
 ---
 
-I'm Chase Brown, a full stack software engineer based out of Arizona. I graduated in 2022 with a bachelor's degree in computer science from Fulton School of Engineering at ASU. Since then I found a passion for web3 and blockchain development on the EVM. I curently lead a team of software engineers where we focus on building full stack web3 decentralized apps and smart contract protocols. We love exploring blockchain-based dev tools and building web3 infrastructure for web2 institutions.
+I'm Chase Brown, a web3 full stack software engineer based out of Arizona. I graduated in 2022 with a bachelor's degree in computer science from Fulton School of Engineering at ASU. Since then I found a passion for web3 and blockchain development on the EVM. I curently lead a team of software engineers where we focus on building full stack web3 decentralized apps and smart contract protocols. We love exploring blockchain-based dev tools and building web3 infrastructure for web2 institutions.
 
 - 💼 need work? do reach, [email](mailto:chase@elevatesoftware.io)
 - 💬 ask me about anything, i am happy to help;
