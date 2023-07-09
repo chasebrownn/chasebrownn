@@ -9,7 +9,7 @@
   <img align="left" alt="Chase's Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/chase-brown-41a934173/">
-  <img align="left" alt="Chase's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Chase's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 ---
