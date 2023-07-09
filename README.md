@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/chasethedev/">
   <img align="left" alt="Chase's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/fQnuhPwa">
-  <img align="left" alt="chase's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/chasethedev_">
   <img align="left" alt="Chase's Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
