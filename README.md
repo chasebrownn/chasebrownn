@@ -11,9 +11,9 @@
 
 ---
 
-I'm Chase Brown, a web3 full stack software engineer based out of Arizona. I graduated in 2022 with a bachelor's degree in computer science from Fulton School of Engineering at ASU. Since then I found a passion for web3 and blockchain development on the EVM. I currently work as a Sr. Smart Contract Engineer at [Re.al](https://www.re.al/).
+I'm Chase Brown, a smart contract engineer based out of Arizona. In short, I write code that moves digital money.
 
-- 💼 need work? do reach, [email](mailto:chasebrown7@icloud.com)
+- 💼 need work? do reach, [email](mailto:chase@komodolabs.io)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
