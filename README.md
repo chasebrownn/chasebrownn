@@ -11,7 +11,7 @@
 
 ---
 
-I'm Chase Brown, a smart contract engineer based out of Arizona. In short, I write code that moves digital money.
+I'm Chase. In short, I write code that moves digital money.
 
 - 💼 need work? do reach, [email](mailto:chase@komodolabs.io)
 - 💬 ask me about anything, i am happy to help;
