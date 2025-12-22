@@ -1,13 +1,4 @@
 ### hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-<a href="https://www.instagram.com/chasethedev/">
-  <img align="left" alt="Chase's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/chasethedev_">
-  <img align="left" alt="Chase's Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/chase-brown-41a934173/">
-  <img align="left" alt="Chase's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a>
 
 ---
 
